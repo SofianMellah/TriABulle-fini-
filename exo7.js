@@ -1,5 +1,9 @@
 let tableau = [4, 34, 45, 3, 1, 8, 48, 98, 107, 45]
 console.log(tableau)
+/* Début push */
+tableau.push(157, 874, 59)
+/* Fin push */
+console.log(tableau)
 document.getElementById("debut").innerHTML = tableau
 
 
