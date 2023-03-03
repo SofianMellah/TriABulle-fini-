@@ -1,1 +1,1 @@
-Nous avons un tableau qui contient x valeurs, mettez les dans l'ordre croissant et décroissant en programmant cela.
+Nous avons un tableau qui contient x valeurs, mettez les dans l'ordre croissant et décroissant en programmant cela. En utilisant la méthode tri à bulle
