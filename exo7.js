@@ -3,6 +3,7 @@ console.log(tableau)
 document.getElementById("debut").innerHTML = tableau
 
 
+/* Début ordre croissant */
 function triABulleCroissant(tableau) {
 
     let length = tableau.length
@@ -19,8 +20,10 @@ function triABulleCroissant(tableau) {
     console.log(tableau)
     document.getElementById("resultatcroissant").innerHTML = tableau
 }
+/* Fin ordre croissant */
 
 
+/* Début ordre décroissant */
 function triABulleDecroissant(tableau) {
 
     let length = tableau.length
@@ -37,3 +40,4 @@ function triABulleDecroissant(tableau) {
     console.log(tableau)
     document.getElementById("resultatdecroissant").innerHTML = tableau
 }
+/* Fin ordre décroissant */
